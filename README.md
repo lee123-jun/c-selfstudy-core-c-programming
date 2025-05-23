@@ -1,6 +1,6 @@
 # Core C Programming 예제 풀이
 
-📘 *KNU 1학년 2학기 C언어 수업 교재 - Core C Programming 저자: 천정아* 
+📘 *KNU 1학년 2학기 C언어 수업 교재 - Core C Programming* 
 🔧 **사용 환경:** Dev-C++  
 🗓️ **학습 기간:** 202X.XX ~ 202X.XX  
 ✍️ **학습 방식:** 자율 학습 (Self-study)
